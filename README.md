@@ -1,4 +1,4 @@
-<p align="center"> </p> <h1 align="center">Job Portal Web Application</h1> <p align="center"> A modern and responsive job portal built for seamless job searching and application management. </p> <p align="center"> <a href="https://github.com/your-username/job-portal-eup5"> <img src="https://img.shields.io/github/repo-size/dhaneshraok/Job_Portal" alt="GitHub repo size"> </a> <a href="https://github.com/your-username/job-portal-eup5/graphs/contributors"> <img src="https://img.shields.io/github/contributors/dhaneshraok/Job_Portal" alt="GitHub contributors"> </a>  </p>
+<p align="center"> </p> <h1 align="center">Job Portal Web Application</h1> <p align="center"> A modern and responsive job portal built for seamless job searching and application management. </p> <p align="center"> <a href="https://github.com/your-username/job-portal-eup5"> <img src="https://img.shields.io/github/repo-size/dhaneshraok/Job_Portal" alt="GitHub repo size">   </p>
 
 <h3> 🌟 Overview</h3>
 
